@@ -1,6 +1,7 @@
 <script>
   let mensagem = "Feliz aniversário, Titi... Ou melhor, meu paizocas.";
-  let detalhe = "Tive que queimar meus neurônios pra fazer isso aqui, então não vou escrever muita coisa. Quem sabe a gumerlinda sabe de algo...";
+  let detalhe =
+    "Tive que queimar meus neurônios pra fazer isso aqui, então não vou escrever muita coisa. Quem sabe a gumerlinda sabe de algo...";
 </script>
 
 <main>
@@ -32,6 +33,3 @@
     font-size: 1.2rem;
   }
 </style>
-
-
-

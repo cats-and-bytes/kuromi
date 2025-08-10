@@ -1,3 +1,11 @@
-<a href="/a">a</a>
+<div class="links">
+  <a href="/a">a</a>
+  <a href="/b">b</a>
+  <a href="/c">c</a>
+</div>
 
-<a href="/b">b</a>
+<style>
+  .links {
+    font-size: 3rem;
+  }
+</style>
