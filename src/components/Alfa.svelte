@@ -2,7 +2,7 @@
 
 <style>
   div {
-    color: green;
+    color: blue;
     font-size: 5rem;
   }
 </style>
